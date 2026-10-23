@@ -1,0 +1,11 @@
+{
+  "botMainnet": {
+    "chainId": 677,
+    "Fanout": "0xb22648a8f801Eb9e0aD7eEBC6FAa8291daFdD125",
+    "deployTx": "0x6549a2dc4a432d8c154a5fa2d5bf3a02cf6691f1bac20734644609e61ebbb090",
+    "owner": "0x3686f4A5cF47DCbaF0cE8eF3bE3F3231dafe5e4f",
+    "treasury": "0x3686f4A5cF47DCbaF0cE8eF3bE3F3231dafe5e4f",
+    "deployer": "0xcC9C1dAC538b7E698C95bAa0C66c345598634CC7",
+    "fee": "0.05 BOT"
+  }
+}

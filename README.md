@@ -1,5 +1,8 @@
 # Fanout — batch sender on BOT Chain
 
+**Live on BOT Chain mainnet:** [`0xb22648a8f801Eb9e0aD7eEBC6FAa8291daFdD125`](https://scan.botchain.ai/address/0xb22648a8f801Eb9e0aD7eEBC6FAa8291daFdD125)
+(deploy tx [`0x6549a2dc…`](https://scan.botchain.ai/tx/0x6549a2dc4a432d8c154a5fa2d5bf3a02cf6691f1bac20734644609e61ebbb090))
+
 Send BOT or any ERC-20 token to up to 300 wallets in one transaction: payroll,
 contributor rewards, refunds, community payouts. Paste `address, amount` lines
 (or load a CSV) and the site validates every line before anything is sent.
